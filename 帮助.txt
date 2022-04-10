@@ -1,0 +1,5 @@
+myCombineTextInputFormat       小文件整合
+partitioner                    分区
+serialize                      序列化
+wordcount                      词统计
+writablecompable               全排序: 结果集成到一个结果文件里，文件内部有序
